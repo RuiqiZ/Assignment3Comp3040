@@ -46,7 +46,7 @@ There are two endpoints for this API, both using a `GET` request.
 ```
     {
         "results" :
-        {
+        [
             {
                 "town" : "Melita",
                 "population" : "800",
@@ -71,7 +71,7 @@ There are two endpoints for this API, both using a `GET` request.
                 "museums" : "0",
                 "universities/colleges" : "0",
             },
-        }    
+        ]   
         "status":""OK
     }
 ```
